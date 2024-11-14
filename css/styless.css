@@ -1,0 +1,47 @@
+
+header {
+    background-color: black;
+    color: white;
+    margin-top: 0%;
+    height: 50px;
+    grid-area: header;
+}
+
+.lien1 {
+
+    margin-right: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.lien {
+
+    float: right;
+    margin-right: 10px;
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+
+    background-color: blue;
+
+}
+
+img {
+    max-width: 400px;
+    max-height: 400px;
+    margin: auto;
+    background-color: white;
+    border: solid black 1px;
+    padding: 10px;
+    margin-left: 100px;
+}
+
+.paragraphe {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+   text-align: center;
+}
